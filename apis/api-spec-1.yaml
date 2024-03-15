@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: v1
-  title: Echo Server -test1
+  title: Echo Server 
   description: A Simple Echo API
 
 servers:
